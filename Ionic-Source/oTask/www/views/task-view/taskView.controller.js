@@ -39,7 +39,7 @@
             }
             else {
                 vm.taskList = [];
-            }
+            }  
 
             vm.isListEmpty = isTaskListEmpty();
         }
@@ -84,6 +84,7 @@
       function Sprintlist()
 	  {
 		  vm.HeaderDiv = false;
+		  vm.Progressbar = true;
 		  $scope.slideToggle = false;
 		  $(".custom_content").css("height","100%");
 

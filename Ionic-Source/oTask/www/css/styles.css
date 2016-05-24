@@ -790,3 +790,12 @@ display:none;
 }.pop_close.agree {
     margin-right: 20px;
 }
+
+
+/*  progress bar css  */
+.ProgressBarDesign{
+width:100%;
+background-color:#1ab4e6;
+float:left;
+height: 5px;
+}
