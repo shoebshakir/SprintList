@@ -47,11 +47,21 @@
 			
 		</div>
 	</div>
-			<div class="pop_close" id="pop_close" onclick="popup_close();" href="#">&times;</div>
+	
+
+	<div class="close_pop_box">
+	    <div class="pop_close agree" id="agree" ng-click="vm.Clearlist()" href="#"><i class="icon ion-checkmark-round"></i></div>
+
+    <div class="pop_close" id="pop_close" onclick="popup_close();" href="#"><i class="icon ion-close"></i></div>
+
+	</div>	
+		
 
 	<div id="popup_overlay" style="display:none;"></div>
 	
 	<!-------------- popup div ends------------->
+
+	
   <ion-content> 
     <!-- Show Empty text if no tasks exist -->
     
@@ -141,7 +151,7 @@
 		   <li><a ng-click="vm.Sprintlist()">Sprintlist </a></li>
 		   <li><a href="">Completed Items</a></li>
 		   <li><a href=""> Incomplete list </a></li>
-		   <li ><a ng-click="vm.Clearlist()"> Clear list  </a></li>
+		   <li><a id="clearListFn"> Clear list  </a></li>
 		   <li ><a ng-click="vm.HomePage()"> Add items  </a></li>
 		   </ul>
 	  </div>

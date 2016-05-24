@@ -95,9 +95,13 @@
       
 	  function Clearlist()
 	  {
+		
 		window.localStorage.clear();
 		$scope.slideToggle = false;
+		
 		start();
+		$('.close_pop_box').removeClass("tickMark");
+		$("#pop_close").click();
 	  }
 	 
 	 //        clear list function ends //

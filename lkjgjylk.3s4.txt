@@ -1,0 +1,66 @@
+﻿Merge remote-tracking branch 'upstream/master'
+
+# Conflicts:
+#	Ionic-Source/oTask/config.xml
+#	Ionic-Source/oTask/resources/android/icon/mipmap-hdpi/ic_launcher.png
+#	Ionic-Source/oTask/resources/android/icon/mipmap-ldpi/ic_launcher.png
+#	Ionic-Source/oTask/resources/android/icon/mipmap-mdpi/ic_launcher.png
+#	Ionic-Source/oTask/resources/android/icon/mipmap-xhdpi/ic_launcher.png
+#	Ionic-Source/oTask/resources/android/icon/mipmap-xxhdpi/ic_launcher.png
+#	Ionic-Source/oTask/resources/android/icon/mipmap-xxxhdpi/ic_launcher.png
+#	Ionic-Source/oTask/www/css/styles.css
+#	Ionic-Source/oTask/www/index.html
+#	Ionic-Source/oTask/www/js/static-html-content.js
+#
+# It looks like you may be committing a merge.
+# If this is not correct, please remove the file
+#	.git/MERGE_HEAD
+# and try again.
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# All conflicts fixed but you are still merging.
+#
+# Changes to be committed:
+#	modified:   Ionic-Source/oTask/config.xml
+#	renamed:    Ionic-Source/oTask/resources/android/icon/mipmap-hdpi/ic_launcher.png -> Ionic-Source/oTask/resources/android/icon/drawable-hdpi-icon.png
+#	renamed:    Ionic-Source/oTask/resources/android/icon/mipmap-ldpi/ic_launcher.png -> Ionic-Source/oTask/resources/android/icon/drawable-ldpi-icon.png
+#	renamed:    Ionic-Source/oTask/resources/android/icon/mipmap-mdpi/ic_launcher.png -> Ionic-Source/oTask/resources/android/icon/drawable-mdpi-icon.png
+#	renamed:    Ionic-Source/oTask/resources/android/icon/mipmap-xhdpi/ic_launcher.png -> Ionic-Source/oTask/resources/android/icon/drawable-xhdpi-icon.png
+#	renamed:    Ionic-Source/oTask/resources/android/icon/mipmap-xxhdpi/ic_launcher.png -> Ionic-Source/oTask/resources/android/icon/drawable-xxhdpi-icon.png
+#	renamed:    Ionic-Source/oTask/resources/android/icon/mipmap-xxxhdpi/ic_launcher.png -> Ionic-Source/oTask/resources/android/icon/drawable-xxxhdpi-icon.png
+#	new file:   Ionic-Source/oTask/resources/icon.png
+#	modified:   Ionic-Source/oTask/resources/splash.png
+#	modified:   Ionic-Source/oTask/www/css/styles.css
+#	modified:   Ionic-Source/oTask/www/index.html
+#	modified:   Ionic-Source/oTask/www/js/static-html-content.js
+#	new file:   Ionic-Source/release/android-release-unsigned-v0.0.1.apk
+#	new file:   Ionic-Source/release/android-release-unsigned-v0.0.2.apk
+#	new file:   Ionic-Source/release/android-release-unsigned.apk
+#	new file:   Ionic-Source/release/otask-release-key.keystore
+#	new file:   Ionic-Source/release/release.txt
+#	new file:   Ionic-Source/release/sprintlist-release-key.keystore
+#	new file:   Photoshop Files/AppIcon.psd
+#	new file:   Photoshop Files/icon.psd
+#	copied:     Resources/Logo, Icon & Graphics/Logo_(512x512)-High-Resulution.png -> Resources/Logo, Icon & Graphics/Archive/Logo_(512x512)-High-Resulution.png
+#	modified:   Resources/Logo, Icon & Graphics/Logo_(512x512)-High-Resulution.png
+#	new file:   Resources/Screen Shots/0.jpg
+#	new file:   Resources/Screen Shots/promotional_1.jpg
+#	new file:   Resources/Screen Shots/promotional_2.jpg
+#	new file:   icon inspiaration/Logo.png
+#	new file:   icon inspiaration/icon-1024.png
+#	new file:   icon inspiaration/icon.png
+#	new file:   screenshots/Promotional/icon.png
+#	new file:   screenshots/Promotional/promotional_1.jpg
+#	new file:   screenshots/Promotional/promotional_2.jpg
+#	new file:   screenshots/Promotional/promotional_3.jpg
+#	new file:   screenshots/Screenshot_20160417-154452.png
+#	new file:   screenshots/Screenshot_20160417-154500.png
+#	new file:   screenshots/Screenshot_20160417-154541.png
+#	new file:   screenshots/Screenshot_20160417-154554.png
+#
+
